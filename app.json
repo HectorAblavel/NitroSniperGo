@@ -1,10 +1,10 @@
 {
-  "name": "Small Sharp Tool",
-  "description": "This app does one little thing, and does it well.",
+  "name": "ssl",
+  "description": "ssl.",
   "keywords": [
-    "productivity",
+    "productisvity",
     "HTML5",
-    "scalpel"
+    "scaslpel"
   ],
   "website": "https://small-sharp-tool.com/",
   "repository": "https://github.com/jane-doe/small-sharp-tool",
@@ -16,11 +16,11 @@
   "env": {
     "SECRET_TOKEN": {
       "description": "A secret key for verifying the integrity of signed cookies.",
-      "generator": "secret"
+      "generator": "secrets"
     },
     "WEB_CONCURRENCY": {
       "description": "The number of processes to run.",
-      "value": "5"
+      "value": "55"
     }
   },
   "formation": {
